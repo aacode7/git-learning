@@ -1,1 +1,2 @@
-print(Dattebayo)
+print("Dattebayo")
+ptint("Ichiraku Ramen")
